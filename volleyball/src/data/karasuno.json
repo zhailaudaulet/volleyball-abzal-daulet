@@ -43,6 +43,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/d2/Hinata_s4-e1-4.png/revision/latest/scale-to-width-down/350?cb=20200506183149"
                 ]
+            },
+            {
+                "value": "327cm"
             }
         ]
     },
@@ -90,6 +93,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/e/e7/Kageyama_s4-e7-3.png/revision/latest/scale-to-width-down/350?cb=20200519170107"
                 ]
+            },
+            {
+                "value": "337cm"
             }
         ]
     },
@@ -137,6 +143,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/a/a5/Daichi_s4-e11-2.png/revision/latest/scale-to-width-down/350?cb=20200519171030"
                 ]
+            },
+            {
+                "value": "310cm"
             }
         ]
     },
@@ -184,6 +193,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/d5/Sugawara_s4-e6-1.png/revision/latest/scale-to-width-down/350?cb=20200515113126"
                 ]
+            },
+            {
+                "value": "299cm"
             }
         ]
     },
@@ -231,6 +243,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806"
                 ]
+            },
+            {
+                "value": "324cm"
             }
         ]
     },
@@ -239,45 +254,48 @@
         "items": [
             {
                 "name": "name",
-                "value": "Tanaka Ryūnosuke",
+                "value": "Tsukishima Kei",
                 "values": [
-                    "Tanaka Ryūnosuke"
+                    "Tsukishima Kei"
                 ]
             },
             {
                 "name": "age",
-                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "value": "15 - 16 (High School 1st Year) - 2012",
                 "values": [
-                    "16 - 17 (High School 2nd Year) - 2012"
+                    "15 - 16 (High School 1st Year) - 2012"
                 ]
             },
             {
                 "name": "height",
-                "value": "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012",
+                "value": "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012",
                 "values": [
-                    "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012"
+                    "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "68.8 kg (151.7 lbs)",
+                "value": "68.4 kg (150.8 lbs) - Apr 2012",
                 "values": [
-                    "68.8 kg (151.7 lbs)"
+                    "68.4 kg (150.8 lbs) - Apr 2012"
                 ]
             },
             {
                 "name": "position",
-                "value": "Outside HitterAce (3rd Year)",
+                "value": "Middle Blocker",
                 "values": [
-                    "Outside HitterAce (3rd Year)"
+                    "Middle Blocker"
                 ]
             },
             {
                 "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/7/73/Tsukishima_s4-e6-2.png/revision/latest/scale-to-width-down/350?cb=20200519170528",
                 "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806"
+                    "https://static.wikia.nocookie.net/haikyuu/images/7/73/Tsukishima_s4-e6-2.png/revision/latest/scale-to-width-down/350?cb=20200519170528"
                 ]
+            },
+            {
+                "value": "334cm"
             }
         ]
     },
@@ -325,6 +343,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/db/Nishinoya_2_s1_e20.png/revision/latest/scale-to-width-down/350?cb=20220218110015"
                 ]
+            },
+            {
+                "value": "302cm"
             }
         ]
     },
@@ -372,6 +393,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/7/7d/Asahi_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20201214055958"
                 ]
+            },
+            {
+                "value": "333cm"
             }
         ]
     },
@@ -419,6 +443,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/9/93/Yamaguchi_s4-e3-1.jpg/revision/latest/scale-to-width-down/350?cb=20200604003944"
                 ]
+            },
+            {
+                "value": "315cm"
             }
         ]
     }

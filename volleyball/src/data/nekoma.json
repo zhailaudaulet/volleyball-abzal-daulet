@@ -43,6 +43,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/8/80/Land_VS_Air_-_Kenma.jpg/revision/latest/scale-to-width-down/350?cb=20191227141949"
                 ]
+            },
+            {
+                "value": "295cm"
             }
         ]
     },
@@ -90,6 +93,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/7/7a/Kuroo_OVA.jpg/revision/latest/scale-to-width-down/350?cb=20200604001949"
                 ]
+            },
+            {
+                "value": "330cm"
             }
         ]
     },
@@ -137,6 +143,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/b/b7/Images.jpg/revision/latest?cb=20180907205102"
                 ]
+            },
+            {
+                "value": "333cm"
             }
         ]
     },
@@ -145,9 +154,9 @@
         "items": [
             {
                 "name": "name",
-                "value": "Haiba Riēfu",
+                "value": "Haiba Lev",
                 "values": [
-                    "Haiba Riēfu"
+                    "Haiba Lev"
                 ]
             },
             {
@@ -184,6 +193,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/1/19/Lev_OVA_4-3.png/revision/latest/scale-to-width-down/350?cb=20200212180827"
                 ]
+            },
+            {
+                "value": "345cm"
             }
         ]
     },
@@ -231,6 +243,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/0/06/YamamotoTaketora.png/revision/latest/scale-to-width-down/350?cb=20140616142635"
                 ]
+            },
+            {
+                "value": "322cm"
             }
         ]
     },
@@ -278,6 +293,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/da/%28Morisuke_Yaku_OVA_Trailer%29.png/revision/latest/scale-to-width-down/350?cb=20190928213505"
                 ]
+            },
+            {
+                "value": "301cm"
             }
         ]
     },
@@ -325,6 +343,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/e/ef/Kai.jpg/revision/latest?cb=20150113041812"
                 ]
+            },
+            {
+                "value": "309cm"
             }
         ]
     },
@@ -372,6 +393,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/dc/Fukunaga_s4-e18-1.png/revision/latest/scale-to-width-down/350?cb=20201030195158"
                 ]
+            },
+            {
+                "value": "315cm"
             }
         ]
     },
@@ -419,6 +443,9 @@
                 "values": [
                     "https://static.wikia.nocookie.net/haikyuu/images/d/db/Shibayama_OVA_5-3.png/revision/latest/scale-to-width-down/350?cb=20200705082036"
                 ]
+            },
+            {
+                "value": "280cm"
             }
         ]
     }
