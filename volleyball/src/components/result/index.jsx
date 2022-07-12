@@ -50,7 +50,7 @@ export const Result = ({character}) => {
                     </progress>
                     
                 </div>
-                <div className='nameBox'><p className='charName'>Daulet Zhailau</p></div>
+                <div className='nameBox'><p className='charName'>{character.data[0].value}</p></div>
                 
                 <div className='basicInfo'>
                     <p className='infoText'>Want more?</p>

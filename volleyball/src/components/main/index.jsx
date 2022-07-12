@@ -7,7 +7,7 @@ import karasuno from "../../data/karasuno.json";
 import nekoma from "../../data/nekoma.json";
 import others from "../../data/others.json";
 import shiratorizawa from "../../data/shiratorizawa.json";
-export const Main = ({setCh}) => {
+export const Main = ({setCh, setContent}) => {
     const defineChar = () => {
 
         const dataChar = [...aobaJohsai, ...dateTech, ...fukurodani, ...inarizaki, ...karasuno, ...nekoma, ...others, ...shiratorizawa];
@@ -131,7 +131,7 @@ export const Main = ({setCh}) => {
                         <option>Captain</option>
                     </select>
                 </div>
-                <div className='goButton' onClick={defineChar}>
+                <div className='goButton' onClick={()=>{defineChar();setContent(3)}}>
                     <p className='goText'>GO</p>
                 </div>
             </div>

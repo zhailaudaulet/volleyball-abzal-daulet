@@ -44,6 +44,7 @@
 }
 
 .circle {
+    cursor: pointer;
     position: absolute;
     width: 160px;
     height: 160px;

@@ -10,7 +10,7 @@ import arrow from './caret-right-solid.svg'
 import karasuno from "./data/karasuno.json";
 
 function App() {
-  const [content, setContent] = useState(5);
+  const [content, setContent] = useState(0);
   const [character, setCharacter] = useState({data: karasuno[0].items});
   const handleSetCharacter = (Char)=>{
     setCharacter(Char);
@@ -23,11 +23,11 @@ function App() {
 
       {/*navbar*/}
       <div className='Navbar'>
-        <div className='siteTitle'>
+        <div className='siteTitle' onClick={()=>{setContent(0)}}>
           <div className='title'>Title</div>
         </div>
-        <div className='mainActivity'>
-          <div className='mainActivityTitle'>GO</div>
+        <div className='mainActivity' onClick={()=>{setContent(1)}}>
+          <div className='mainActivityTitle' >GO</div>
         </div>
       </div>
 
@@ -38,8 +38,8 @@ function App() {
         </div>
       
       </div>
-      {content === 0 ? <Start></Start>
-        : content === 1 ? <Main setCh={handleSetCharacter}></Main>
+      {content === 0 ? <Start setContent={setContent}></Start>
+        : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent}></Main>
           : <Result character={character}></Result>}
     </div>
   );

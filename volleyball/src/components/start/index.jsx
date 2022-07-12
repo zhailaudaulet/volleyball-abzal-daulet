@@ -1,6 +1,6 @@
 import './index.css';
 import ball from '../../volleyball.png'
-export const Start = () => {
+export const Start = ({setContent}) => {
     return (
         <div className="startBody">
             <p className='question'>Do you want to know which of
@@ -9,7 +9,7 @@ export const Start = () => {
             </p>
             <div className='video'>
             </div>
-            <div className='circle'>
+            <div className='circle' onClick={()=>{setContent(1)}}>
                 <img src={ball} className='ball'></img>
             </div>
 
