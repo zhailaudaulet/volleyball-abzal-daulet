@@ -7,8 +7,14 @@ import { Result } from './components/result';
 import hero from './hero.png';
 import arrow from './caret-right-solid.svg'
 
+import karasuno from "./data/karasuno.json";
+
 function App() {
-  const [content, setContent] = useState(3);
+  const [content, setContent] = useState(5);
+  const [character, setCharacter] = useState({data: karasuno[0].items});
+  const handleSetCharacter = (Char)=>{
+    setCharacter(Char);
+  }
   return (
     // <>
     // <Main></Main>
@@ -33,8 +39,8 @@ function App() {
       
       </div>
       {content === 0 ? <Start></Start>
-        : content === 1 ? <Main></Main>
-          : <Result></Result>}
+        : content === 1 ? <Main setCh={handleSetCharacter}></Main>
+          : <Result character={character}></Result>}
     </div>
   );
 }

@@ -7,7 +7,7 @@ import karasuno from "../../data/karasuno.json";
 import nekoma from "../../data/nekoma.json";
 import others from "../../data/others.json";
 import shiratorizawa from "../../data/shiratorizawa.json";
-export const Main = () => {
+export const Main = ({setCh}) => {
     const defineChar = () => {
 
         const dataChar = [...aobaJohsai, ...dateTech, ...fukurodani, ...inarizaki, ...karasuno, ...nekoma, ...others, ...shiratorizawa];
@@ -82,6 +82,7 @@ export const Main = () => {
         }
         console.log(priorityArr);
         console.log(max);
+        setCh(max);
         // let min = priorityArr[0];
         // for (let index = 1; index < priorityArr.length; index++) {
         //     if (priorityArr[index].point <= min.point) {
