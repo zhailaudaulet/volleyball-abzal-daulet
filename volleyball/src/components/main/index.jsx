@@ -11,7 +11,10 @@ export const Main = () => {
                 <div className='weight'>
                     <input className='commonInput' placeholder='Optional' />
                 </div>
-                
+                <div className='jumpHeight'>
+                    <input className='commonInput' placeholder='Optional' />
+                </div>
+
 
 
             </div>
