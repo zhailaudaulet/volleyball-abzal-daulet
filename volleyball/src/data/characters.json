@@ -1,0 +1,370 @@
+[
+    {
+        "height": "164.2cm",
+        "weight": "51.9",
+        "position": "Middle Blocker",
+        "age": "16",
+        "spike": "327cm",
+        "verticalJump": "1.23m"
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Hinata Shōyō",
+                "values": [
+                    "Hinata Shōyō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 - 16 (High School 1st Year) - 2012",
+                "values": [
+                    "15 - 16 (High School 1st Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "162.8cm (5' 4.1\") - Apr 2012  164.2cm (5' 4.6\") - Nov 2012",
+                "values": [
+                    "162.8cm (5' 4.1\") - Apr 2012  164.2cm (5' 4.6\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "51.9kg (114.4 lbs) - Apr 2012",
+                "values": [
+                    "51.9kg (114.4 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Captain (Junior High)  Outside Hitter (Junior High)  Middle Blocker (High School)",
+                "values": [
+                    "Captain (Junior High)  Outside Hitter (Junior High)  Middle Blocker (High School)"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kageyama Tobio",
+                "values": [
+                    "Kageyama Tobio"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 - 16 (High School 1st Year) - 2012",
+                "values": [
+                    "15 - 16 (High School 1st Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "180.6cm (5' 11.1\") - Apr 2012181.9cm (5' 11.6\") - Nov 2012",
+                "values": [
+                    "180.6cm (5' 11.1\") - Apr 2012181.9cm (5' 11.6\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "66.3kg (146.2 lbs) - Apr 2012",
+                "values": [
+                    "66.3kg (146.2 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter",
+                "values": [
+                    "Setter"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Sawamura Daichi",
+                "values": [
+                    "Sawamura Daichi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18 (High School 3rd Year) - 2012",
+                "values": [
+                    "17 - 18 (High School 3rd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "176.8cm (5' 9.6\") - Apr 2012  176.7cm (5' 9.6\") - Nov 2012",
+                "values": [
+                    "176.8cm (5' 9.6\") - Apr 2012  176.7cm (5' 9.6\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "70.1kg (154.5 lbs)",
+                "values": [
+                    "70.1kg (154.5 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Captain  Outside Hitter (Junior High)Opposite Hitter",
+                "values": [
+                    "Captain  Outside Hitter (Junior High)Opposite Hitter"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Sugawara Kōshi",
+                "values": [
+                    "Sugawara Kōshi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18 (High School 3rd Year) - 2012",
+                "values": [
+                    "17 - 18 (High School 3rd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "174.3 cm (5' 8.6\") - Apr 2012  174.6 cm (5' 8.7\") - Nov 2012",
+                "values": [
+                    "174.3 cm (5' 8.6\") - Apr 2012  174.6 cm (5' 8.7\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "63.5 kg (140 lbs)",
+                "values": [
+                    "63.5 kg (140 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter  Vice-Captain  Pinch Server",
+                "values": [
+                    "Setter  Vice-Captain  Pinch Server"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Tanaka Ryūnosuke",
+                "values": [
+                    "Tanaka Ryūnosuke"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012",
+                "values": [
+                    "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "68.8 kg (151.7 lbs)",
+                "values": [
+                    "68.8 kg (151.7 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside HitterAce (3rd Year)",
+                "values": [
+                    "Outside HitterAce (3rd Year)"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Tsukishima Kei",
+                "values": [
+                    "Tsukishima Kei"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 - 16 (High School 1st Year) - 2012",
+                "values": [
+                    "15 - 16 (High School 1st Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012",
+                "values": [
+                    "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "68.4 kg (150.8 lbs) - Apr 2012",
+                "values": [
+                    "68.4 kg (150.8 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Nishinoya Yū",
+                "values": [
+                    "Nishinoya Yū"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "159.3 cm (5' 2.7\") - Apr 2012  160.5 cm (5' 3.2\") - Nov 2012",
+                "values": [
+                    "159.3 cm (5' 2.7\") - Apr 2012  160.5 cm (5' 3.2\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "51.1 kg (112.7 lbs)",
+                "values": [
+                    "51.1 kg (112.7 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Libero",
+                "values": [
+                    "Libero"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Azumane Asahi",
+                "values": [
+                    "Azumane Asahi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18 (High School 3rd Year) - 2012",
+                "values": [
+                    "17 - 18 (High School 3rd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "184.7 cm (6' 0.7\") - Apr 2012  186.4 cm (6' 1.4\") - Nov 2012",
+                "values": [
+                    "184.7 cm (6' 0.7\") - Apr 2012  186.4 cm (6' 1.4\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "75.2 kg (165.8 lbs)",
+                "values": [
+                    "75.2 kg (165.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter  Ace",
+                "values": [
+                    "Outside Hitter  Ace"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Yamaguchi Tadashi",
+                "values": [
+                    "Yamaguchi Tadashi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 - 16 (High School 1st Year) - 2012",
+                "values": [
+                    "15 - 16 (High School 1st Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "179.5 cm (5' 10.7\") - Apr 2012  180.0 cm (5' 10.9\") - Nov 2012",
+                "values": [
+                    "179.5 cm (5' 10.7\") - Apr 2012  180.0 cm (5' 10.9\") - Nov 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "63.0 kg (138.9 lbs)",
+                "values": [
+                    "63.0 kg (138.9 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker  Pinch ServerCaptain (3rd Year)",
+                "values": [
+                    "Middle Blocker  Pinch ServerCaptain (3rd Year)"
+                ]
+            }
+        ]
+    }
+]

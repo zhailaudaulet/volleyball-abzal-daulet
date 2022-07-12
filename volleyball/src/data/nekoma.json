@@ -1,0 +1,164 @@
+[
+    {
+        "rule": "Rule #1",
+        "items": [
+          {
+            "name": "name",
+            "value": "Kozume Kenma",
+            "values": [
+              "Kozume Kenma"
+            ]
+          },
+          {
+            "name": "age",
+            "value": "16 - 17 (High School 2nd Year) - 2012",
+            "values": [
+              "16 - 17 (High School 2nd Year) - 2012"
+            ]
+          },
+          {
+            "name": "height",
+            "value": "169.2 cm (5' 6.6\")- Apr 2012 170 cm (5' 6.9\") - Jan 2013",
+            "values": [
+              "169.2 cm (5' 6.6\")- Apr 2012 170 cm (5' 6.9\") - Jan 2013"
+            ]
+          },
+          {
+            "name": "weight",
+            "value": "58.3 kg (128.5 lbs)",
+            "values": [
+              "58.3 kg (128.5 lbs)"
+            ]
+          },
+          {
+            "name": "position",
+            "value": "Setter",
+            "values": [
+              "Setter"
+            ]
+          }
+        ]
+      },
+      {
+        "rule": "Rule #1",
+        "items": [
+          {
+            "name": "name",
+            "value": "Kuroo Tetsurō",
+            "values": [
+              "Kuroo Tetsurō"
+            ]
+          },
+          {
+            "name": "age",
+            "value": "17 - 18 (High School 3rd Year) - 2012",
+            "values": [
+              "17 - 18 (High School 3rd Year) - 2012"
+            ]
+          },
+          {
+            "name": "height",
+            "value": "187.7 cm (6' 1.9\") - Apr 2012 188 cm (6' 2\") - Jan 2013",
+            "values": [
+              "187.7 cm (6' 1.9\") - Apr 2012 188 cm (6' 2\") - Jan 2013"
+            ]
+          },
+          {
+            "name": "weight",
+            "value": "75.3 kg (166.0 lbs)",
+            "values": [
+              "75.3 kg (166.0 lbs)"
+            ]
+          },
+          {
+            "name": "position",
+            "value": "Captain Middle Blocker",
+            "values": [
+              "Captain Middle Blocker"
+            ]
+          }
+        ]
+      },
+      {
+        "rule": "Rule #2",
+        "items": [
+          {
+            "name": "name",
+            "value": "Inuoka Sō",
+            "values": [
+              "Inuoka Sō"
+            ]
+          },
+          {
+            "name": "age",
+            "value": "15 - 16 (High School 1st Year) - 2012",
+            "values": [
+              "15 - 16 (High School 1st Year) - 2012"
+            ]
+          },
+          {
+            "name": "height",
+            "value": "185.3 cm (6' 1\") - Apr 2012 187 cm (6' 1.6\") - Jan 2013",
+            "values": [
+              "185.3 cm (6' 1\") - Apr 2012 187 cm (6' 1.6\") - Jan 2013"
+            ]
+          },
+          {
+            "name": "weight",
+            "value": "74.3 kg (163.8 lbs) - Apr 2012",
+            "values": [
+              "74.3 kg (163.8 lbs) - Apr 2012"
+            ]
+          },
+          {
+            "name": "position",
+            "value": "Middle Blocker (Former) Opposite Hitter",
+            "values": [
+              "Middle Blocker (Former) Opposite Hitter"
+            ]
+          }
+        ]
+      },
+      {
+        "rule": "Rule #2",
+        "items": [
+          {
+            "name": "name",
+            "value": "Haiba Riēfu",
+            "values": [
+              "Haiba Riēfu"
+            ]
+          },
+          {
+            "name": "age",
+            "value": "15 - 16 (High School 1st Year) - 2012",
+            "values": [
+              "15 - 16 (High School 1st Year) - 2012"
+            ]
+          },
+          {
+            "name": "height",
+            "value": "194.3 cm (6' 4.5\") - Apr 2012   196  cm  (6' 5.2\") - Jan 2013",
+            "values": [
+              "194.3 cm (6' 4.5\") - Apr 2012   196  cm  (6' 5.2\") - Jan 2013"
+            ]
+          },
+          {
+            "name": "weight",
+            "value": "79.7 kg (175.7 lbs) - Apr 2012",
+            "values": [
+              "79.7 kg (175.7 lbs) - Apr 2012"
+            ]
+          },
+          {
+            "name": "position",
+            "value": "Middle Blocker",
+            "values": [
+              "Middle Blocker"
+            ]
+          }
+        ]
+      }
+
+
+]
