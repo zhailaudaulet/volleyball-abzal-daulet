@@ -1,0 +1,19 @@
+.resultBody {
+    position: absolute;
+    width: 1440px;
+    height: 920px;
+    left: 0px;
+    top: 104px;
+    display: flex;
+}
+
+.resultSection {
+
+    position: absolute;
+    width: 838px;
+    height: 683px;
+    left: 301px;
+    top: 118px;
+
+    background: rgba(255, 255, 255, 0.89);
+}
