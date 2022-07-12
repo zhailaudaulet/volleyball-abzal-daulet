@@ -4,56 +4,56 @@
         "items": [
             {
                 "name": "name",
-                "value": "Kozume Kenma",
+                "value": "Oikawa Tōru",
                 "values": [
-                    "Kozume Kenma"
+                    "Oikawa Tōru"
                 ]
             },
             {
                 "name": "age",
-                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "value": "17 (High School 3rd Year) - 2012",
                 "values": [
-                    "16 - 17 (High School 2nd Year) - 2012"
+                    "17 (High School 3rd Year) - 2012"
                 ]
             },
             {
                 "name": "height",
-                "value": "169.2 cm (5' 6.6\")- Apr 2012 170 cm (5' 6.9\") - Jan 2013",
+                "value": "184.3cm (6' 0.6\") - Apr 2012",
                 "values": [
-                    "169.2 cm (5' 6.6\")- Apr 2012 170 cm (5' 6.9\") - Jan 2013"
+                    "184.3cm (6' 0.6\") - Apr 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "58.3 kg (128.5 lbs)",
+                "value": "72.2kg (159.2 lbs)",
                 "values": [
-                    "58.3 kg (128.5 lbs)"
+                    "72.2kg (159.2 lbs)"
                 ]
             },
             {
                 "name": "position",
-                "value": "Setter",
+                "value": "SetterCaptain",
                 "values": [
-                    "Setter"
+                    "SetterCaptain"
                 ]
             },
             {
                 "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/80/Land_VS_Air_-_Kenma.jpg/revision/latest/scale-to-width-down/350?cb=20191227141949",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/88/Oikawa_Season_1_Episode_7.png/revision/latest/scale-to-width-down/350?cb=20140614121105",
                 "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/8/80/Land_VS_Air_-_Kenma.jpg/revision/latest/scale-to-width-down/350?cb=20191227141949"
+                    "https://static.wikia.nocookie.net/haikyuu/images/8/88/Oikawa_Season_1_Episode_7.png/revision/latest/scale-to-width-down/350?cb=20140614121105"
                 ]
             }
         ]
     },
     {
-        "rule": "Rule #1",
+        "rule": "Rule #2",
         "items": [
             {
                 "name": "name",
-                "value": "Kuroo Tetsurō",
+                "value": "Iwaizumi Hajime",
                 "values": [
-                    "Kuroo Tetsurō"
+                    "Iwaizumi Hajime"
                 ]
             },
             {
@@ -65,30 +65,30 @@
             },
             {
                 "name": "height",
-                "value": "187.7 cm (6' 1.9\") - Apr 2012 188 cm (6' 2\") - Jan 2013",
+                "value": "179.3 cm (5' 10.6\") - Apr 2012",
                 "values": [
-                    "187.7 cm (6' 1.9\") - Apr 2012 188 cm (6' 2\") - Jan 2013"
+                    "179.3 cm (5' 10.6\") - Apr 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "75.3 kg (166.0 lbs)",
+                "value": "70.2 kg (154.7 lbs)",
                 "values": [
-                    "75.3 kg (166.0 lbs)"
+                    "70.2 kg (154.7 lbs)"
                 ]
             },
             {
                 "name": "position",
-                "value": "Captain Middle Blocker",
+                "value": "4 (Junior High 3rd Year)  4 (High School 3rd Year)",
                 "values": [
-                    "Captain Middle Blocker"
+                    "4 (Junior High 3rd Year)  4 (High School 3rd Year)"
                 ]
             },
             {
                 "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/7/7a/Kuroo_OVA.jpg/revision/latest/scale-to-width-down/350?cb=20200604001949",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/8f/Iwaizumi1.png/revision/latest/scale-to-width-down/350?cb=20161106214944",
                 "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/7/7a/Kuroo_OVA.jpg/revision/latest/scale-to-width-down/350?cb=20200604001949"
+                    "https://static.wikia.nocookie.net/haikyuu/images/8/8f/Iwaizumi1.png/revision/latest/scale-to-width-down/350?cb=20161106214944"
                 ]
             }
         ]
@@ -98,9 +98,9 @@
         "items": [
             {
                 "name": "name",
-                "value": "Inuoka Sō",
+                "value": "Kindaichi Yūtarō",
                 "values": [
-                    "Inuoka Sō"
+                    "Kindaichi Yūtarō"
                 ]
             },
             {
@@ -112,63 +112,16 @@
             },
             {
                 "name": "height",
-                "value": "185.3 cm (6' 1\") - Apr 2012 187 cm (6' 1.6\") - Jan 2013",
+                "value": "189.2 cm (6' 2.5\") - Apr 2012 190 cm (6' 2.8\") - Dec 2012",
                 "values": [
-                    "185.3 cm (6' 1\") - Apr 2012 187 cm (6' 1.6\") - Jan 2013"
+                    "189.2 cm (6' 2.5\") - Apr 2012 190 cm (6' 2.8\") - Dec 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "74.3 kg (163.8 lbs) - Apr 2012",
+                "value": "74.3 kg (163.8 lbs)",
                 "values": [
-                    "74.3 kg (163.8 lbs) - Apr 2012"
-                ]
-            },
-            {
-                "name": "position",
-                "value": "Middle Blocker (Former) Opposite Hitter",
-                "values": [
-                    "Middle Blocker (Former) Opposite Hitter"
-                ]
-            },
-            {
-                "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/b/b7/Images.jpg/revision/latest?cb=20180907205102",
-                "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/b/b7/Images.jpg/revision/latest?cb=20180907205102"
-                ]
-            }
-        ]
-    },
-    {
-        "rule": "Rule #2",
-        "items": [
-            {
-                "name": "name",
-                "value": "Haiba Riēfu",
-                "values": [
-                    "Haiba Riēfu"
-                ]
-            },
-            {
-                "name": "age",
-                "value": "15 - 16 (High School 1st Year) - 2012",
-                "values": [
-                    "15 - 16 (High School 1st Year) - 2012"
-                ]
-            },
-            {
-                "name": "height",
-                "value": "194.3 cm (6' 4.5\") - Apr 2012   196  cm  (6' 5.2\") - Jan 2013",
-                "values": [
-                    "194.3 cm (6' 4.5\") - Apr 2012   196  cm  (6' 5.2\") - Jan 2013"
-                ]
-            },
-            {
-                "name": "weight",
-                "value": "79.7 kg (175.7 lbs) - Apr 2012",
-                "values": [
-                    "79.7 kg (175.7 lbs) - Apr 2012"
+                    "74.3 kg (163.8 lbs)"
                 ]
             },
             {
@@ -180,9 +133,9 @@
             },
             {
                 "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/19/Lev_OVA_4-3.png/revision/latest/scale-to-width-down/350?cb=20200212180827",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/f/f5/Kindaichi-AobaJousai.png/revision/latest/scale-to-width-down/350?cb=20140616140005",
                 "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/1/19/Lev_OVA_4-3.png/revision/latest/scale-to-width-down/350?cb=20200212180827"
+                    "https://static.wikia.nocookie.net/haikyuu/images/f/f5/Kindaichi-AobaJousai.png/revision/latest/scale-to-width-down/350?cb=20140616140005"
                 ]
             }
         ]
@@ -192,197 +145,9 @@
         "items": [
             {
                 "name": "name",
-                "value": "Yamamoto Taketora",
+                "value": "Kunimi Akira",
                 "values": [
-                    "Yamamoto Taketora"
-                ]
-            },
-            {
-                "name": "age",
-                "value": "16 - 17 (High School 2nd Year) - 2012",
-                "values": [
-                    "16 - 17 (High School 2nd Year) - 2012"
-                ]
-            },
-            {
-                "name": "height",
-                "value": "176.7 cm (5' 9.6\") - Apr 2012 178 cm (5' 10.1\") - Jan 2013",
-                "values": [
-                    "176.7 cm (5' 9.6\") - Apr 2012 178 cm (5' 10.1\") - Jan 2013"
-                ]
-            },
-            {
-                "name": "weight",
-                "value": "69.1 kg (152.3 lbs)",
-                "values": [
-                    "69.1 kg (152.3 lbs)"
-                ]
-            },
-            {
-                "name": "position",
-                "value": "Outside Hitter  Ace",
-                "values": [
-                    "Outside Hitter  Ace"
-                ]
-            },
-            {
-                "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/0/06/YamamotoTaketora.png/revision/latest/scale-to-width-down/350?cb=20140616142635",
-                "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/0/06/YamamotoTaketora.png/revision/latest/scale-to-width-down/350?cb=20140616142635"
-                ]
-            }
-        ]
-    },
-    {
-        "rule": "Rule #2",
-        "items": [
-            {
-                "name": "name",
-                "value": "Yaku Morisuke",
-                "values": [
-                    "Yaku Morisuke"
-                ]
-            },
-            {
-                "name": "age",
-                "value": "17 - 18 (High School 3rd Year) - 2012",
-                "values": [
-                    "17 - 18 (High School 3rd Year) - 2012"
-                ]
-            },
-            {
-                "name": "height",
-                "value": "165.2 cm (5' 5\") - Apr 2012 166 cm (5' 5.4\") - Jan 2013",
-                "values": [
-                    "165.2 cm (5' 5\") - Apr 2012 166 cm (5' 5.4\") - Jan 2013"
-                ]
-            },
-            {
-                "name": "weight",
-                "value": "60.2 kg (132.7 lbs) - Apr 2012",
-                "values": [
-                    "60.2 kg (132.7 lbs) - Apr 2012"
-                ]
-            },
-            {
-                "name": "position",
-                "value": "Libero",
-                "values": [
-                    "Libero"
-                ]
-            },
-            {
-                "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/da/%28Morisuke_Yaku_OVA_Trailer%29.png/revision/latest/scale-to-width-down/350?cb=20190928213505",
-                "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/d/da/%28Morisuke_Yaku_OVA_Trailer%29.png/revision/latest/scale-to-width-down/350?cb=20190928213505"
-                ]
-            }
-        ]
-    },
-    {
-        "rule": "Rule #2",
-        "items": [
-            {
-                "name": "name",
-                "value": "Kai Nobuyuki",
-                "values": [
-                    "Kai Nobuyuki"
-                ]
-            },
-            {
-                "name": "age",
-                "value": "17 - 18 (High School 3rd Year) - 2012",
-                "values": [
-                    "17 - 18 (High School 3rd Year) - 2012"
-                ]
-            },
-            {
-                "name": "height",
-                "value": "176.5 cm (5' 9.5\") - Apr 2012",
-                "values": [
-                    "176.5 cm (5' 9.5\") - Apr 2012"
-                ]
-            },
-            {
-                "name": "weight",
-                "value": "68.9 kg (151.9 lbs)",
-                "values": [
-                    "68.9 kg (151.9 lbs)"
-                ]
-            },
-            {
-                "name": "position",
-                "value": "Opposite Hitter Vice-Captain",
-                "values": [
-                    "Opposite Hitter Vice-Captain"
-                ]
-            },
-            {
-                "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/e/ef/Kai.jpg/revision/latest?cb=20150113041812",
-                "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/e/ef/Kai.jpg/revision/latest?cb=20150113041812"
-                ]
-            }
-        ]
-    },
-    {
-        "rule": "Rule #2",
-        "items": [
-            {
-                "name": "name",
-                "value": "Fukunaga Shohei",
-                "values": [
-                    "Fukunaga Shohei"
-                ]
-            },
-            {
-                "name": "age",
-                "value": "16 - 17 (High School 2nd Year) - 2012",
-                "values": [
-                    "16 - 17 (High School 2nd Year) - 2012"
-                ]
-            },
-            {
-                "name": "height",
-                "value": "178.3 cm (5' 10.2\") - Apr 2012 179 cm (5' 10.5\") - Jan 2013",
-                "values": [
-                    "178.3 cm (5' 10.2\") - Apr 2012 179 cm (5' 10.5\") - Jan 2013"
-                ]
-            },
-            {
-                "name": "weight",
-                "value": "68.3 kg (150.6 lbs)",
-                "values": [
-                    "68.3 kg (150.6 lbs)"
-                ]
-            },
-            {
-                "name": "position",
-                "value": "Outside Hitter",
-                "values": [
-                    "Outside Hitter"
-                ]
-            },
-            {
-                "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/dc/Fukunaga_s4-e18-1.png/revision/latest/scale-to-width-down/350?cb=20201030195158",
-                "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/d/dc/Fukunaga_s4-e18-1.png/revision/latest/scale-to-width-down/350?cb=20201030195158"
-                ]
-            }
-        ]
-    },
-    {
-        "rule": "Rule #2",
-        "items": [
-            {
-                "name": "name",
-                "value": "Shibayama Yūki",
-                "values": [
-                    "Shibayama Yūki"
+                    "Kunimi Akira"
                 ]
             },
             {
@@ -394,30 +159,265 @@
             },
             {
                 "name": "height",
-                "value": "162.5 cm (5' 4\") - Apr 2012",
+                "value": "182.8 cm (6' 0\") - Apr 2012  183 cm (6' 0\") - Dec 2012",
                 "values": [
-                    "162.5 cm (5' 4\") - Apr 2012"
+                    "182.8 cm (6' 0\") - Apr 2012  183 cm (6' 0\") - Dec 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "53.3 kg (117.5 lbs)",
+                "value": "66.1 kg (145.7 lbs)",
                 "values": [
-                    "53.3 kg (117.5 lbs)"
+                    "66.1 kg (145.7 lbs)"
                 ]
             },
             {
                 "name": "position",
-                "value": "Libero",
+                "value": "Opposite Hitter  Decoy (Junior High)",
                 "values": [
-                    "Libero"
+                    "Opposite Hitter  Decoy (Junior High)"
                 ]
             },
             {
                 "name": "img",
-                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/db/Shibayama_OVA_5-3.png/revision/latest/scale-to-width-down/350?cb=20200705082036",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/c/ca/Kunimi.png/revision/latest/scale-to-width-down/350?cb=20140915153953",
                 "values": [
-                    "https://static.wikia.nocookie.net/haikyuu/images/d/db/Shibayama_OVA_5-3.png/revision/latest/scale-to-width-down/350?cb=20200705082036"
+                    "https://static.wikia.nocookie.net/haikyuu/images/c/ca/Kunimi.png/revision/latest/scale-to-width-down/350?cb=20140915153953"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kyōtani Kentarō",
+                "values": [
+                    "Kyōtani Kentarō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "178.8 cm (5' 10.4\") - Apr 2012",
+                "values": [
+                    "178.8 cm (5' 10.4\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "70.8 kg (156.1 lbs)",
+                "values": [
+                    "70.8 kg (156.1 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Opposite HitterAce (Junior High)",
+                "values": [
+                    "Opposite HitterAce (Junior High)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/b/b5/Kyoutani1.png/revision/latest/scale-to-width-down/350?cb=20170409011611",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/b/b5/Kyoutani1.png/revision/latest/scale-to-width-down/350?cb=20170409011611"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Watari Shinji",
+                "values": [
+                    "Watari Shinji"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "171.2 cm (5' 7.4\") - Apr 2012",
+                "values": [
+                    "171.2 cm (5' 7.4\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "62.5 kg (137.8 lbs)",
+                "values": [
+                    "62.5 kg (137.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter (Former)  Libero",
+                "values": [
+                    "Setter (Former)  Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a2/Watari.png/revision/latest/scale-to-width-down/350?cb=20140915151412",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a2/Watari.png/revision/latest/scale-to-width-down/350?cb=20140915151412"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Matsukawa Issei",
+                "values": [
+                    "Matsukawa Issei"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18 (High School 3rd Year) - 2012",
+                "values": [
+                    "17 - 18 (High School 3rd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "187.9 cm (6' 2\") - Apr 2012",
+                "values": [
+                    "187.9 cm (6' 2\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "73.8 kg (162.7 lbs)",
+                "values": [
+                    "73.8 kg (162.7 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/4/46/IsseiMatsukawa1.png/revision/latest/scale-to-width-down/350?cb=20150809185904",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/4/46/IsseiMatsukawa1.png/revision/latest/scale-to-width-down/350?cb=20150809185904"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Hanamaki Takahiro",
+                "values": [
+                    "Hanamaki Takahiro"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18 (High School 3rd Year) - 2012",
+                "values": [
+                    "17 - 18 (High School 3rd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "184.7 cm (6' 0.7\") - Apr 2012",
+                "values": [
+                    "184.7 cm (6' 0.7\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "72.0 kg (158.7 lbs)",
+                "values": [
+                    "72.0 kg (158.7 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter",
+                "values": [
+                    "Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/1b/Hanamaki_s2-e22-1.png/revision/latest/scale-to-width-down/350?cb=20200401175508",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/1b/Hanamaki_s2-e22-1.png/revision/latest/scale-to-width-down/350?cb=20200401175508"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Yahaba Shigeru",
+                "values": [
+                    "Yahaba Shigeru"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "181.9 cm (5' 11.6\") - Apr 2012",
+                "values": [
+                    "181.9 cm (5' 11.6\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "69.0 kg (152.1 lbs)",
+                "values": [
+                    "69.0 kg (152.1 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter Pinch Server",
+                "values": [
+                    "Setter Pinch Server"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/e/ee/Yahaba1.png/revision/latest/scale-to-width-down/350?cb=20170409011546",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/e/ee/Yahaba1.png/revision/latest/scale-to-width-down/350?cb=20170409011546"
                 ]
             }
         ]

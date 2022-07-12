@@ -1,0 +1,331 @@
+[
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kamasaki Yasushi",
+                "values": [
+                    "Kamasaki Yasushi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 - 2012",
+                "values": [
+                    "18 - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "186.8cm (6' 1.5\")",
+                "values": [
+                    "186.8cm (6' 1.5\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "82.2kg (181.2 lbs)",
+                "values": [
+                    "82.2kg (181.2 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker Vice Captain",
+                "values": [
+                    "Middle Blocker Vice Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/e/e9/Yasushi.png/revision/latest/scale-to-width-down/350?cb=20140915160241",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/e/e9/Yasushi.png/revision/latest/scale-to-width-down/350?cb=20140915160241"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Moniwa Kaname",
+                "values": [
+                    "Moniwa Kaname"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 - 2012",
+                "values": [
+                    "18 - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "176.3 cm (5' 9.4\")",
+                "values": [
+                    "176.3 cm (5' 9.4\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "67.5 kg (148.8 lbs)",
+                "values": [
+                    "67.5 kg (148.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter  Captain",
+                "values": [
+                    "Setter  Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/80/Moniwa.png/revision/latest/scale-to-width-down/350?cb=20140915154936",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/8/80/Moniwa.png/revision/latest/scale-to-width-down/350?cb=20140915154936"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Aone Takanobu",
+                "values": [
+                    "Aone Takanobu"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "191.8cm (6' 3.5\") - Apr 2012  192cm (6' 3.6\") - Dec 2012193.3cm (6' 4.1\") Jan 2013",
+                "values": [
+                    "191.8cm (6' 3.5\") - Apr 2012  192cm (6' 3.6\") - Dec 2012193.3cm (6' 4.1\") Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "88.2kg (194.4 lbs) - Apr 2012",
+                "values": [
+                    "88.2kg (194.4 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a1/Aone_s4-e6-2.png/revision/latest/scale-to-width-down/350?cb=20200415043150",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a1/Aone_s4-e6-2.png/revision/latest/scale-to-width-down/350?cb=20200415043150"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Futakuchi Kenji",
+                "values": [
+                    "Futakuchi Kenji"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
+                "values": [
+                    "16 - 17 (High School 2nd Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "184.2 cm (6' 0.5\") - Apr 2012",
+                "values": [
+                    "184.2 cm (6' 0.5\") - Apr 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "71.5 kg (157.6 lbs) - Apr 2012",
+                "values": [
+                    "71.5 kg (157.6 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter Ace Captain (Spring High)",
+                "values": [
+                    "Outside Hitter Ace Captain (Spring High)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/5/5b/Futakuchi_s4-e24-1.png/revision/latest/scale-to-width-down/350?cb=20201211213146",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/5/5b/Futakuchi_s4-e24-1.png/revision/latest/scale-to-width-down/350?cb=20201211213146"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Koganegawa Kanji",
+                "values": [
+                    "Koganegawa Kanji"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 - 16 (High School 1st Year) - 2012",
+                "values": [
+                    "15 - 16 (High School 1st Year) - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "191.5 cm (6' 3.4\") - Apr 2012  193 cm (6' 4\") - Dec 2012",
+                "values": [
+                    "191.5 cm (6' 3.4\") - Apr 2012  193 cm (6' 4\") - Dec 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "80.2 kg (176.8 lbs) - Apr 2012",
+                "values": [
+                    "80.2 kg (176.8 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter",
+                "values": [
+                    "Setter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a4/Koganegawa_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200129070035",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a4/Koganegawa_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200129070035"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Sakunami Kōsuke",
+                "values": [
+                    "Sakunami Kōsuke"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 - 2012",
+                "values": [
+                    "16 - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "164.1 cm (5' 4.6\") - April 2012  166 cm (5' 5.4\") - Dec 2012",
+                "values": [
+                    "164.1 cm (5' 4.6\") - April 2012  166 cm (5' 5.4\") - Dec 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "59.5 kg (131 lbs)",
+                "values": [
+                    "59.5 kg (131 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Libero",
+                "values": [
+                    "Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/5/55/Sakunami1.png/revision/latest/scale-to-width-down/350?cb=20170321000119",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/5/55/Sakunami1.png/revision/latest/scale-to-width-down/350?cb=20170321000119"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Obara Yutaka",
+                "values": [
+                    "Obara Yutaka"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 2012",
+                "values": [
+                    "17 - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "186.2 cm (5' 4.6\") - April 2012  187 cm (5' 5.4\") - Dec 2012",
+                "values": [
+                    "186.2 cm (5' 4.6\") - April 2012  187 cm (5' 5.4\") - Dec 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "83.1 kg (183 lbs)",
+                "values": [
+                    "83.1 kg (183 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter",
+                "values": [
+                    "Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/15/Obara1.png/revision/latest/scale-to-width-down/1000?cb=20170321000227",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/15/Obara1.png/revision/latest/scale-to-width-down/1000?cb=20170321000227"
+                ]
+            }
+        ]
+    }
+]
