@@ -1,23 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
+import { Start } from './components/start';
+import { Main } from './components/main';
+import { Result } from './components/result';
 
 function App() {
+  const [content, setContent] = useState(0);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {content === 0 ? <Start></Start>
+        : content === 1 ? <Main></Main>
+          : <Result></Result>}
     </div>
   );
 }
