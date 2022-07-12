@@ -53,9 +53,10 @@ export const Result = ({character}) => {
                 <div className='nameBox'><p className='charName'>Daulet Zhailau</p></div>
                 
                 <div className='basicInfo'>
-                    <p className='infoText'>Basic Info</p>
+                    <p className='infoText'>Want more?</p>
+                <div className='moreButton' onClick={()=>{window.location.href=`https://haikyuu.fandom.com/wiki/${character.data[0].value.substring(character.data[0].value.indexOf(" ")+1)}_${character.data[0].value.substring(0,character.data[0].value.indexOf(" "))}`;}}></div>
                 </div>
-                <div className='moreButton'></div>
+                
 
 
 
