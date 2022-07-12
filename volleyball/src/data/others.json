@@ -1,0 +1,190 @@
+[
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Sakusa Kiyoomi",
+                "values": [
+                    "Sakusa Kiyoomi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 (Jan 2013)",
+                "values": [
+                    "16 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "189 cm (6' 2.4\") - Dec 2012",
+                "values": [
+                    "189 cm (6' 2.4\") - Dec 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "72.4 kg (159.6 lbs) - Dec 2012",
+                "values": [
+                    "72.4 kg (159.6 lbs) - Dec 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter  Ace",
+                "values": [
+                    "Outside Hitter  Ace"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/99/Sakusa_s4-e4-4.png/revision/latest/scale-to-width-down/350?cb=20201225073644",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/9/99/Sakusa_s4-e4-4.png/revision/latest/scale-to-width-down/350?cb=20201225073644"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Komori Motoya",
+                "values": [
+                    "Komori Motoya"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (High School 2nd Year)",
+                "values": [
+                    "17 (High School 2nd Year)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "180.2 cm (5' 10.9\")",
+                "values": [
+                    "180.2 cm (5' 10.9\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "66.8 kg (147.3 lbs)",
+                "values": [
+                    "66.8 kg (147.3 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter (Former)  Libero",
+                "values": [
+                    "Outside Hitter (Former)  Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a3/Motoya_s4-e4-1.png/revision/latest/scale-to-width-down/350?cb=20200201101714",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a3/Motoya_s4-e4-1.png/revision/latest/scale-to-width-down/350?cb=20200201101714"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Terushima Yūji",
+                "values": [
+                    "Terushima Yūji"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - Oct 2012",
+                "values": [
+                    "17 - Oct 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "177.2cm (5' 9.8\")",
+                "values": [
+                    "177.2cm (5' 9.8\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "66.7kg (147.0 lbs)",
+                "values": [
+                    "66.7kg (147.0 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter  Captain",
+                "values": [
+                    "Outside Hitter  Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/0/04/Yuji1.png/revision/latest/scale-to-width-down/350?cb=20160130051153",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/0/04/Yuji1.png/revision/latest/scale-to-width-down/350?cb=20160130051153"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Daishō Suguru",
+                "values": [
+                    "Daishō Suguru"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 (Nov 2012)",
+                "values": [
+                    "18 (Nov 2012)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "178.6 cm (5' 10.3\")",
+                "values": [
+                    "178.6 cm (5' 10.3\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "66.5 kg (146.6 lbs)",
+                "values": [
+                    "66.5 kg (146.6 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Captain Outside Hitter",
+                "values": [
+                    "Captain Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/4/47/Suguru_Daishoo.jpg/revision/latest/scale-to-width-down/350?cb=20191103114338",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/4/47/Suguru_Daishoo.jpg/revision/latest/scale-to-width-down/350?cb=20191103114338"
+                ]
+            }
+        ]
+    }
+]

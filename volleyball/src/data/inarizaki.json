@@ -1,0 +1,472 @@
+[
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kita Shinsuke",
+                "values": [
+                    "Kita Shinsuke"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 (Jan 2013)",
+                "values": [
+                    "18 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "175.2 cm (5' 9\")",
+                "values": [
+                    "175.2 cm (5' 9\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "67.5 kg (148.8 lbs)",
+                "values": [
+                    "67.5 kg (148.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter  Captain  Defense Specialist",
+                "values": [
+                    "Outside Hitter  Captain  Defense Specialist"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/96/Kita_s4-e13-1.jpg/revision/latest/scale-to-width-down/350?cb=20200404123332",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/9/96/Kita_s4-e13-1.jpg/revision/latest/scale-to-width-down/350?cb=20200404123332"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Ōmimi Ren",
+                "values": [
+                    "Ōmimi Ren"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17-18",
+                "values": [
+                    "17-18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "191.5 cm (6' 3.4\")",
+                "values": [
+                    "191.5 cm (6' 3.4\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "80.5 kg (177.5 lbs)",
+                "values": [
+                    "80.5 kg (177.5 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/6/62/Omimi_anime.jpg/revision/latest/scale-to-width-down/300?cb=20200709160047",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/6/62/Omimi_anime.jpg/revision/latest/scale-to-width-down/300?cb=20200709160047"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Ojiro Aran",
+                "values": [
+                    "Ojiro Aran"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 (Jan 2013)",
+                "values": [
+                    "18 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "184.7 cm (6' 0.7\")",
+                "values": [
+                    "184.7 cm (6' 0.7\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "80.2 kg (176.8 lbs)",
+                "values": [
+                    "80.2 kg (176.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter  Ace  On-Court Captain",
+                "values": [
+                    "Outside Hitter  Ace  On-Court Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/11/AranOjiro.png/revision/latest?cb=20200406012920",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/11/AranOjiro.png/revision/latest?cb=20200406012920"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Ginjima Hitoshi",
+                "values": [
+                    "Ginjima Hitoshi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17",
+                "values": [
+                    "17"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "180.3 cm (5' 11\")",
+                "values": [
+                    "180.3 cm (5' 11\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "72.7 kg (160.3 lbs)",
+                "values": [
+                    "72.7 kg (160.3 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter",
+                "values": [
+                    "Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/4/4f/Ginjima_hitoshi.jpg/revision/latest/scale-to-width-down/300?cb=20200709160558",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/4/4f/Ginjima_hitoshi.jpg/revision/latest/scale-to-width-down/300?cb=20200709160558"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Miya Atsumu",
+                "values": [
+                    "Miya Atsumu"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (Jan 2013)",
+                "values": [
+                    "17 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "183.6 cm (6' 0.3\")",
+                "values": [
+                    "183.6 cm (6' 0.3\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "73.3 kg (161.6 lbs)",
+                "values": [
+                    "73.3 kg (161.6 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter Captain (High School 3rd Year)",
+                "values": [
+                    "Setter Captain (High School 3rd Year)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/3/3c/Atsumu_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200126183436",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/3/3c/Atsumu_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200126183436"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Suna Rintarō",
+                "values": [
+                    "Suna Rintarō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 (Jan 2013)",
+                "values": [
+                    "16 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "185.7 cm (6' 1.1\")",
+                "values": [
+                    "185.7 cm (6' 1.1\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "73.2 kg (161.4 lbs)",
+                "values": [
+                    "73.2 kg (161.4 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/0/03/Suna_s4-e14-1.png/revision/latest/scale-to-width-down/350?cb=20201002204334",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/0/03/Suna_s4-e14-1.png/revision/latest/scale-to-width-down/350?cb=20201002204334"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Miya Osamu",
+                "values": [
+                    "Miya Osamu"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (Jan 2013)",
+                "values": [
+                    "17 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "183.8 cm (6' 0.4\")",
+                "values": [
+                    "183.8 cm (6' 0.4\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "74.5 kg (164.2 lbs)",
+                "values": [
+                    "74.5 kg (164.2 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Opposite Hitter",
+                "values": [
+                    "Opposite Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/8d/Osamu_s4-e13-1.png/revision/latest/scale-to-width-down/350?cb=20200404025145",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/8/8d/Osamu_s4-e13-1.png/revision/latest/scale-to-width-down/350?cb=20200404025145"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kosaku Yūto",
+                "values": [
+                    "Kosaku Yūto"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16-17",
+                "values": [
+                    "16-17"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "181cm (5' 11\")",
+                "values": [
+                    "181cm (5' 11\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "74.5 kg (164.2 lbs)",
+                "values": [
+                    "74.5 kg (164.2 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Wing Spiker Pinch Server",
+                "values": [
+                    "Wing Spiker Pinch Server"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/0/0e/Kosaku_s4-e16-1.png/revision/latest/scale-to-width-down/350?cb=20201017072425",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/0/0e/Kosaku_s4-e16-1.png/revision/latest/scale-to-width-down/350?cb=20201017072425"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Riseki Heisuke",
+                "values": [
+                    "Riseki Heisuke"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "15 (Jan 2013)",
+                "values": [
+                    "15 (Jan 2013)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "185.2 cm (6' 0.9\")",
+                "values": [
+                    "185.2 cm (6' 0.9\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "71.5 kg (157.6 lbs)",
+                "values": [
+                    "71.5 kg (157.6 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Wing SpikerPinch Server",
+                "values": [
+                    "Wing SpikerPinch Server"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/c/c9/Riseki_s4-e14-1.png/revision/latest/scale-to-width-down/350?cb=20201102044932",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/c/c9/Riseki_s4-e14-1.png/revision/latest/scale-to-width-down/350?cb=20201102044932"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Akagi Michinari",
+                "values": [
+                    "Akagi Michinari"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18",
+                "values": [
+                    "18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "174.2 cm (5' 8.6\")",
+                "values": [
+                    "174.2 cm (5' 8.6\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "70.8 kg (156.1 lbs)",
+                "values": [
+                    "70.8 kg (156.1 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Libero",
+                "values": [
+                    "Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/11/Akagi_mi.jpg/revision/latest/scale-to-width-down/350?cb=20200709155657",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/11/Akagi_mi.jpg/revision/latest/scale-to-width-down/350?cb=20200709155657"
+                ]
+            }
+        ]
+    }
+]
