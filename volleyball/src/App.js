@@ -8,7 +8,7 @@ import hero from './hero.png';
 import arrow from './caret-right-solid.svg'
 
 function App() {
-  const [content, setContent] = useState();
+  const [content, setContent] = useState(0);
   return (
     // <>
     // <Main></Main>
@@ -30,7 +30,7 @@ function App() {
         <div className='hero'>
           <img className='heroimg' src={hero}></img>
         </div>
-
+      
       </div>
       {content === 0 ? <Start></Start>
         : content === 1 ? <Main></Main>
