@@ -8,7 +8,7 @@ import hero from './hero.png';
 import arrow from './caret-right-solid.svg'
 
 function App() {
-  const [content, setContent] = useState(1);
+  const [content, setContent] = useState(3);
   return (
     // <>
     // <Main></Main>

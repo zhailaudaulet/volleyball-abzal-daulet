@@ -17,3 +17,102 @@
 
     background: rgba(255, 255, 255, 0.89);
 }
+
+.likeBox {
+    position: absolute;
+    width: 410px;
+    height: 71px;
+    left: 214px;
+    top: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #E4E3E3;
+}
+
+.likeText {
+    margin: 0;
+    position: absolute;
+    width: 228px;
+    height: 20px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 20px;
+    /* identical to box height, or 48% */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 5px rgba(0, 0, 0, 0.39);
+}
+
+.characterImg {
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    left: 244px;
+    top: 145px;
+    background-color: black;
+}
+
+.characterStats {
+    position: absolute;
+    width: 215px;
+    height: 46px;
+    left: -2px;
+    top: -1px;
+    background-color: #E4E3E3;
+}
+
+.commonStatsBar {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 431px;
+
+    background: #FFFFFF;
+}
+
+/* For Firefox */
+progress.yourStats::-moz-progress-bar {
+    background: #FF7A00;
+    border-radius: 0px 23px 23px 0px;
+}
+progress.characterStats::-moz-progress-bar {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+/* For Chrome or Safari */
+progress::-webkit-progress-value {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+progress::-webkit-progress-value {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+/* For IE10 */
+progress.commonStatsBar {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+.yourStats {
+    position: absolute;
+    width: 215px;
+    height: 46px;
+    left: -2px;
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0);
+
+
+}
