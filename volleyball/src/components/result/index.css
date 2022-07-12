@@ -67,17 +67,23 @@
     height: 46px;
     left: -2px;
     top: -1px;
-    background-color: #E4E3E3;
+    background-color: #ffffff;
+    border: 0;
+
 }
 
-.commonStatsBar {
+.notCommonStatsBar {
     position: absolute;
     width: 215px;
     height: 45px;
     left: 62px;
     top: 431px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 
-    background: #FFFFFF;
+    background: #ffffff;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
 }
 
 /* For Firefox */
@@ -85,6 +91,7 @@ progress.yourStats::-moz-progress-bar {
     background: #FF7A00;
     border-radius: 0px 23px 23px 0px;
 }
+
 progress.characterStats::-moz-progress-bar {
     background: #FFD704;
     border-radius: 0px 23px 23px 0px;
@@ -95,6 +102,7 @@ progress::-webkit-progress-value {
     background: #FFD704;
     border-radius: 0px 23px 23px 0px;
 }
+
 progress::-webkit-progress-value {
     background: #FFD704;
     border-radius: 0px 23px 23px 0px;
@@ -113,6 +121,138 @@ progress.commonStatsBar {
     left: -2px;
     top: 0px;
     background-color: rgba(0, 0, 0, 0);
+    border: 0;
 
 
+}
+
+.notCommonStatsBar2 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 510px;
+
+    background: #ffffff;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+}
+
+.notCommonStatsBar3 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 590px;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+}
+
+.notCommonStatsBar4 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 431px;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+}
+
+.notCommonStatsBar5 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 510px;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+}
+
+.notCommonStatsBar6 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 590px;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+}
+
+.basicInfo {
+    position: absolute;
+    width: 195px;
+    height: 252px;
+    left: 643px;
+    top: 431px;
+
+    background: rgba(255, 215, 4, 0.31);
+}
+
+.nameBox {
+    position: absolute;
+    width: 410px;
+    height: 49px;
+    left: 214px;
+    top: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.charName {
+    position: absolute;
+
+    height: 20px;
+    /* left: 289px;
+    top: 375px; */
+    margin: 0;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 20px;
+    /* identical to box height, or 48% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.infoText {
+    position: absolute;
+    width: 152px;
+    height: 172px;
+    left: 23px;
+    top: 19px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 20px;
+    /* or 71% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.teeext {
+    position: absolute;
+    margin: 0;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 20px;
+    /* identical to box height, or 71% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
 }
