@@ -1,0 +1,331 @@
+[
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Bokuto Kōtarō",
+                "values": [
+                    "Bokuto Kōtarō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18",
+                "values": [
+                    "17 - 18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "185.3 cm (6' 1\") - Apr 2012 186 cm (6' 1.2\") - Jan 2013",
+                "values": [
+                    "185.3 cm (6' 1\") - Apr 2012 186 cm (6' 1.2\") - Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "78.3 kg (172.6 lbs) - Apr 2012",
+                "values": [
+                    "78.3 kg (172.6 lbs) - Apr 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter Ace Captain",
+                "values": [
+                    "Outside Hitter Ace Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/11/Bokuto_OVA_4-3.png/revision/latest/scale-to-width-down/350?cb=20200212135243",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/11/Bokuto_OVA_4-3.png/revision/latest/scale-to-width-down/350?cb=20200212135243"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Akaashi Keiji",
+                "values": [
+                    "Akaashi Keiji"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17",
+                "values": [
+                    "17"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "182.3 cm (5'11. 8\") - 2012  183 cm (6'0) - Jan 2013",
+                "values": [
+                    "182.3 cm (5'11. 8\") - 2012  183 cm (6'0) - Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "70.7 kg (155.9 lbs)",
+                "values": [
+                    "70.7 kg (155.9 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter  Vice-Captain",
+                "values": [
+                    "Setter  Vice-Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/f/fe/Akaashi_s4-e12-2.png/revision/latest/scale-to-width-down/350?cb=20200415182018",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/f/fe/Akaashi_s4-e12-2.png/revision/latest/scale-to-width-down/350?cb=20200415182018"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Konoha Akinori",
+                "values": [
+                    "Konoha Akinori"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 - 18",
+                "values": [
+                    "17 - 18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "178.8 cm (5' 10.4\")",
+                "values": [
+                    "178.8 cm (5' 10.4\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "65.9 kg (145.2 lbs)",
+                "values": [
+                    "65.9 kg (145.2 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Opposite Hitter",
+                "values": [
+                    "Opposite Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a9/Konoha_s4-e12-1.png/revision/latest/scale-to-width-down/350?cb=20200623180601",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a9/Konoha_s4-e12-1.png/revision/latest/scale-to-width-down/350?cb=20200623180601"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Washio Tatsuki",
+                "values": [
+                    "Washio Tatsuki"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18",
+                "values": [
+                    "18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "187.8 cm (6' 1.9\")  188 cm (6' 2\") - Jan 2013",
+                "values": [
+                    "187.8 cm (6' 1.9\")  188 cm (6' 2\") - Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "80.5 kg (177.5 lbs)",
+                "values": [
+                    "80.5 kg (177.5 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/7/72/Washio_s4-e12-1.png/revision/latest/scale-to-width-down/350?cb=20200328223330",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/7/72/Washio_s4-e12-1.png/revision/latest/scale-to-width-down/350?cb=20200328223330"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Sarukui Yamato",
+                "values": [
+                    "Sarukui Yamato"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18",
+                "values": [
+                    "18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "181.5 cm (5' 11.5\")",
+                "values": [
+                    "181.5 cm (5' 11.5\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "74.2 kg (163.6 lbs)",
+                "values": [
+                    "74.2 kg (163.6 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside Hitter",
+                "values": [
+                    "Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/5/5a/Sarukui1.png/revision/latest/scale-to-width-down/350?cb=20170211043628",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/5/5a/Sarukui1.png/revision/latest/scale-to-width-down/350?cb=20170211043628"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Komi Haruki",
+                "values": [
+                    "Komi Haruki"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17",
+                "values": [
+                    "17"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "164.7 cm (5' 4.8\") - 2012  166 cm (5' 5.4\") - Jan 2013",
+                "values": [
+                    "164.7 cm (5' 4.8\") - 2012  166 cm (5' 5.4\") - Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "60.5 kg (133.4 lbs)",
+                "values": [
+                    "60.5 kg (133.4 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Libero",
+                "values": [
+                    "Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/8/87/Komi1.png/revision/latest/scale-to-width-down/350?cb=20161206025306",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/8/87/Komi1.png/revision/latest/scale-to-width-down/350?cb=20161206025306"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Onaga Wataru",
+                "values": [
+                    "Onaga Wataru"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16",
+                "values": [
+                    "16"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "191.3 cm (6' 3.3\") - 2012  193 cm (6' 4\") - Jan 2013",
+                "values": [
+                    "191.3 cm (6' 3.3\") - 2012  193 cm (6' 4\") - Jan 2013"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "81.1 kg (178.8 lbs)",
+                "values": [
+                    "81.1 kg (178.8 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/4/4c/Onaga1.png/revision/latest/scale-to-width-down/350?cb=20160131000316",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/4/4c/Onaga1.png/revision/latest/scale-to-width-down/350?cb=20160131000316"
+                ]
+            }
+        ]
+    }
+]

@@ -1,13 +1,5 @@
 [
     {
-        "height": "164.2cm",
-        "weight": "51.9",
-        "position": "Middle Blocker",
-        "age": "16",
-        "spike": "327cm",
-        "verticalJump": "1.23m"
-    },
-    {
         "rule": "Rule #1",
         "items": [
             {
@@ -43,6 +35,13 @@
                 "value": "Captain (Junior High)  Outside Hitter (Junior High)  Middle Blocker (High School)",
                 "values": [
                     "Captain (Junior High)  Outside Hitter (Junior High)  Middle Blocker (High School)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/d2/Hinata_s4-e1-4.png/revision/latest/scale-to-width-down/350?cb=20200506183149",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/d2/Hinata_s4-e1-4.png/revision/latest/scale-to-width-down/350?cb=20200506183149"
                 ]
             }
         ]
@@ -84,6 +83,13 @@
                 "values": [
                     "Setter"
                 ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/e/e7/Kageyama_s4-e7-3.png/revision/latest/scale-to-width-down/350?cb=20200519170107",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/e/e7/Kageyama_s4-e7-3.png/revision/latest/scale-to-width-down/350?cb=20200519170107"
+                ]
             }
         ]
     },
@@ -123,6 +129,13 @@
                 "value": "Captain  Outside Hitter (Junior High)Opposite Hitter",
                 "values": [
                     "Captain  Outside Hitter (Junior High)Opposite Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a5/Daichi_s4-e11-2.png/revision/latest/scale-to-width-down/350?cb=20200519171030",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a5/Daichi_s4-e11-2.png/revision/latest/scale-to-width-down/350?cb=20200519171030"
                 ]
             }
         ]
@@ -164,6 +177,13 @@
                 "values": [
                     "Setter  Vice-Captain  Pinch Server"
                 ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/d5/Sugawara_s4-e6-1.png/revision/latest/scale-to-width-down/350?cb=20200515113126",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/d5/Sugawara_s4-e6-1.png/revision/latest/scale-to-width-down/350?cb=20200515113126"
+                ]
             }
         ]
     },
@@ -204,6 +224,13 @@
                 "values": [
                     "Outside HitterAce (3rd Year)"
                 ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806"
+                ]
             }
         ]
     },
@@ -212,37 +239,44 @@
         "items": [
             {
                 "name": "name",
-                "value": "Tsukishima Kei",
+                "value": "Tanaka Ryūnosuke",
                 "values": [
-                    "Tsukishima Kei"
+                    "Tanaka Ryūnosuke"
                 ]
             },
             {
                 "name": "age",
-                "value": "15 - 16 (High School 1st Year) - 2012",
+                "value": "16 - 17 (High School 2nd Year) - 2012",
                 "values": [
-                    "15 - 16 (High School 1st Year) - 2012"
+                    "16 - 17 (High School 2nd Year) - 2012"
                 ]
             },
             {
                 "name": "height",
-                "value": "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012",
+                "value": "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012",
                 "values": [
-                    "188.3 cm (6' 2.1\") - Apr 2012 190.1 cm (6' 2.8\") - Nov 2012"
+                    "177.2 cm (5' 9.8\") - Apr 2012  178.2 cm (5' 10.2\") - Nov 2012"
                 ]
             },
             {
                 "name": "weight",
-                "value": "68.4 kg (150.8 lbs) - Apr 2012",
+                "value": "68.8 kg (151.7 lbs)",
                 "values": [
-                    "68.4 kg (150.8 lbs) - Apr 2012"
+                    "68.8 kg (151.7 lbs)"
                 ]
             },
             {
                 "name": "position",
-                "value": "Middle Blocker",
+                "value": "Outside HitterAce (3rd Year)",
                 "values": [
-                    "Middle Blocker"
+                    "Outside HitterAce (3rd Year)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/9/9a/Tanaka_s4-e16-6.png/revision/latest/scale-to-width-down/350?cb=20201016204806"
                 ]
             }
         ]
@@ -284,6 +318,13 @@
                 "values": [
                     "Libero"
                 ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/db/Nishinoya_2_s1_e20.png/revision/latest/scale-to-width-down/350?cb=20220218110015",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/db/Nishinoya_2_s1_e20.png/revision/latest/scale-to-width-down/350?cb=20220218110015"
+                ]
             }
         ]
     },
@@ -324,6 +365,13 @@
                 "values": [
                     "Outside Hitter  Ace"
                 ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/7/7d/Asahi_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20201214055958",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/7/7d/Asahi_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20201214055958"
+                ]
             }
         ]
     },
@@ -363,6 +411,13 @@
                 "value": "Middle Blocker  Pinch ServerCaptain (3rd Year)",
                 "values": [
                     "Middle Blocker  Pinch ServerCaptain (3rd Year)"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/9/93/Yamaguchi_s4-e3-1.jpg/revision/latest/scale-to-width-down/350?cb=20200604003944",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/9/93/Yamaguchi_s4-e3-1.jpg/revision/latest/scale-to-width-down/350?cb=20200604003944"
                 ]
             }
         ]

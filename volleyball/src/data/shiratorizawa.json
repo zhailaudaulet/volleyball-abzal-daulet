@@ -1,0 +1,378 @@
+[
+    {
+        "rule": "Rule #1",
+        "items": [
+            {
+                "name": "name",
+                "value": "Ushijima Wakatoshi",
+                "values": [
+                    "Ushijima Wakatoshi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 - 2012",
+                "values": [
+                    "18 - 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "189.5 cm (6' 2.6\") - Oct 2012",
+                "values": [
+                    "189.5 cm (6' 2.6\") - Oct 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "84.8 kg (187 lbs) - Oct 2012",
+                "values": [
+                    "84.8 kg (187 lbs) - Oct 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Opposite Hitter Ace Captain",
+                "values": [
+                    "Opposite Hitter Ace Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/d5/Ushijima_s4-e3-2.png/revision/latest/scale-to-width-down/350?cb=20200419124700",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/d5/Ushijima_s4-e3-2.png/revision/latest/scale-to-width-down/350?cb=20200419124700"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Shirabu Kenjirō",
+                "values": [
+                    "Shirabu Kenjirō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (Oct 2012)",
+                "values": [
+                    "17 (Oct 2012)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "174.8 cm (5' 8.8\")",
+                "values": [
+                    "174.8 cm (5' 8.8\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "64.4 kg (142 lbs)",
+                "values": [
+                    "64.4 kg (142 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter",
+                "values": [
+                    "Setter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/a/a6/Shirabu_s3-e4-1.png/revision/latest/scale-to-width-down/350?cb=20190829085018",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/a/a6/Shirabu_s3-e4-1.png/revision/latest/scale-to-width-down/350?cb=20190829085018"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Satori Tendō",
+                "values": [
+                    "Satori Tendō"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 - Oct 2012",
+                "values": [
+                    "18 - Oct 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "187.7 cm (6' 1.9\") - Oct 2012",
+                "values": [
+                    "187.7 cm (6' 1.9\") - Oct 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "71.1kg (156.7 lbs)",
+                "values": [
+                    "71.1kg (156.7 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/d2/Tendous4_8.jpg/revision/latest/scale-to-width-down/350?cb=20200604065043",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/d2/Tendous4_8.jpg/revision/latest/scale-to-width-down/350?cb=20200604065043"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Reon Ōhira",
+                "values": [
+                    "Reon Ōhira"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "18 - Oct 2012",
+                "values": [
+                    "18 - Oct 2012"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "182.7 cm (5' 11.9\") - Oct 2012",
+                "values": [
+                    "182.7 cm (5' 11.9\") - Oct 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "82.4 kg (181.7 lbs) - Oct 2012",
+                "values": [
+                    "82.4 kg (181.7 lbs) - Oct 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Outside HitterVice-Captain",
+                "values": [
+                    "Outside HitterVice-Captain"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/18/Ohira1.png/revision/latest/scale-to-width-down/350?cb=20170504222951",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/18/Ohira1.png/revision/latest/scale-to-width-down/350?cb=20170504222951"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Goshiki Tsutomu",
+                "values": [
+                    "Goshiki Tsutomu"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "16 (Oct 2012)",
+                "values": [
+                    "16 (Oct 2012)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "181.5 cm (5' 11.5\") - Oct 2012",
+                "values": [
+                    "181.5 cm (5' 11.5\") - Oct 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "69.5 kg (153.2 lbs) - Oct 2012",
+                "values": [
+                    "69.5 kg (153.2 lbs) - Oct 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Captain (Junior High)  Outside Hitter",
+                "values": [
+                    "Captain (Junior High)  Outside Hitter"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/d/d1/Goshiki_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200129065742",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/d/d1/Goshiki_s4-e1-1.png/revision/latest/scale-to-width-down/350?cb=20200129065742"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Kawanishi Taichi",
+                "values": [
+                    "Kawanishi Taichi"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (Oct 2012)",
+                "values": [
+                    "17 (Oct 2012)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "188.3 cm (6' 2.1\")",
+                "values": [
+                    "188.3 cm (6' 2.1\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "74.0 kg (163.1 lbs)",
+                "values": [
+                    "74.0 kg (163.1 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Middle Blocker",
+                "values": [
+                    "Middle Blocker"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/0/00/TaichiKawanishiMugShot.jpg/revision/latest?cb=20170104053209",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/0/00/TaichiKawanishiMugShot.jpg/revision/latest?cb=20170104053209"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Yamagata Hayato",
+                "values": [
+                    "Yamagata Hayato"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17 (Oct 2012)",
+                "values": [
+                    "17 (Oct 2012)"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "174.3 cm (5' 8.6\")",
+                "values": [
+                    "174.3 cm (5' 8.6\")"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "66.5 kg (146.6 lbs)",
+                "values": [
+                    "66.5 kg (146.6 lbs)"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Libero",
+                "values": [
+                    "Libero"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/6/63/Yamagata1.png/revision/latest/scale-to-width-down/350?cb=20170504222810",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/6/63/Yamagata1.png/revision/latest/scale-to-width-down/350?cb=20170504222810"
+                ]
+            }
+        ]
+    },
+    {
+        "rule": "Rule #2",
+        "items": [
+            {
+                "name": "name",
+                "value": "Semi Eita",
+                "values": [
+                    "Semi Eita"
+                ]
+            },
+            {
+                "name": "age",
+                "value": "17-18",
+                "values": [
+                    "17-18"
+                ]
+            },
+            {
+                "name": "height",
+                "value": "179.5 cm (5' 10.7\") - Oct 2012",
+                "values": [
+                    "179.5 cm (5' 10.7\") - Oct 2012"
+                ]
+            },
+            {
+                "name": "weight",
+                "value": "70.5 kg (155.4 lbs) - Oct 2012",
+                "values": [
+                    "70.5 kg (155.4 lbs) - Oct 2012"
+                ]
+            },
+            {
+                "name": "position",
+                "value": "Setter  Pinch Server",
+                "values": [
+                    "Setter  Pinch Server"
+                ]
+            },
+            {
+                "name": "img",
+                "value": "https://static.wikia.nocookie.net/haikyuu/images/1/11/Eita_Semi_Anime.png/revision/latest/scale-to-width-down/350?cb=20170113211815",
+                "values": [
+                    "https://static.wikia.nocookie.net/haikyuu/images/1/11/Eita_Semi_Anime.png/revision/latest/scale-to-width-down/350?cb=20170113211815"
+                ]
+            }
+        ]
+    }
+]
