@@ -11,6 +11,7 @@ import karasuno from "./data/karasuno.json";
 
 function App() {
   const [content, setContent] = useState(0);
+  const [dataUser, setDataUser] = useState([]);
   const [character, setCharacter] = useState({data: karasuno[0].items});
   const handleSetCharacter = (Char)=>{
     setCharacter(Char);
@@ -39,8 +40,8 @@ function App() {
       
       </div>
       {content === 0 ? <Start setContent={setContent}></Start>
-        : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent}></Main>
-          : <Result character={character}></Result>}
+        : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent} setDataUser={setDataUser}></Main>
+          : <Result character={character} dataUser={dataUser}></Result>}
     </div>
   );
 }

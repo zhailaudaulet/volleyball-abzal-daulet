@@ -7,16 +7,17 @@ import karasuno from "../../data/karasuno.json";
 import nekoma from "../../data/nekoma.json";
 import others from "../../data/others.json";
 import shiratorizawa from "../../data/shiratorizawa.json";
-export const Main = ({setCh, setContent}) => {
+export const Main = ({setCh, setContent, setDataUser}) => {
     const defineChar = () => {
 
         const dataChar = [...aobaJohsai, ...dateTech, ...fukurodani, ...inarizaki, ...karasuno, ...nekoma, ...others, ...shiratorizawa];
-
+        
         const dataUser = [];
 
         for (let index = 0; index < 6; index++) {
             dataUser[index] = document.getElementById(`${index}`).value;
         }
+        setDataUser(dataUser);
         let priorityArr = [];
         for (let index = 0; index < dataChar.length; index++) {
             if (dataChar[index].items[4].value.includes(`${dataUser[5]}`)) {
@@ -80,8 +81,8 @@ export const Main = ({setCh, setContent}) => {
                 max = priorityArr[index];
             }
         }
-        console.log(priorityArr);
-        console.log(max);
+        // console.log(priorityArr);
+        // console.log(max);
         setCh(max);
         // let min = priorityArr[0];
         // for (let index = 1; index < priorityArr.length; index++) {

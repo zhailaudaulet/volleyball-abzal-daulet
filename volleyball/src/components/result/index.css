@@ -66,8 +66,8 @@
     width: 215px;
     height: 46px;
     left: -2px;
-    top: -1px;
-    background-color: #ffffff;
+    top: 0px;
+    background: rgba(0, 0, 0, 0);
     border: 0;
 
 }
@@ -82,7 +82,7 @@
     align-items: center;
     justify-content: flex-start;
 
-    background: #ffffff;
+    background: #E4E3E3;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
 }
 
@@ -136,7 +136,7 @@ progress.commonStatsBar {
     align-items: center;
     justify-content: flex-start;
 
-    background: #ffffff;
+    background: #E4E3E3;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
 }
 
@@ -150,7 +150,7 @@ progress.commonStatsBar {
     align-items: center;
     justify-content: flex-start;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
-    background: #ffffff;
+    background: #E4E3E3;
 }
 
 .notCommonStatsBar4 {
@@ -163,7 +163,7 @@ progress.commonStatsBar {
     align-items: center;
     justify-content: flex-start;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
-    background: #ffffff;
+    background: #E4E3E3;
 }
 
 .notCommonStatsBar5 {
@@ -176,7 +176,7 @@ progress.commonStatsBar {
     align-items: center;
     justify-content: flex-start;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
-    background: #ffffff;
+    background: #E4E3E3;
 }
 
 .notCommonStatsBar6 {
@@ -189,7 +189,7 @@ progress.commonStatsBar {
     align-items: center;
     justify-content: flex-start;
     box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
-    background: #ffffff;
+    background: #E4E3E3;
 }
 
 .basicInfo {
@@ -278,15 +278,78 @@ progress.commonStatsBar {
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.29);
 }
 
+
 .moreButton {
     position: relative;
     width: 67px;
     height: 28px;
 
-    
+
     background: #FF7A00;
     border-radius: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.ava{
-    width: 100%;
+
+.ava {
+    height: 100%;
+}
+
+.wikiButton {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.theInfoSignChar {
+
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    left: 669px;
+    top: 444px;
+
+
+    background: #FFD704;
+    border-radius: 11px;
+    cursor: pointer;
+    text-align: center;
+    color: #FFD704;
+    font-size: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.theInfoSignChar:hover {
+    transform: scale(5);
+    color: #FFFFFF;
+    font-size: 4px;
+}
+
+.theInfoSignY {
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    left: 774px;
+    top: 444px;
+    background: #FF7A00;
+    border-radius: 11px;
+    cursor: pointer;
+    text-align: center;
+    color: #FF7A00;
+    font-size: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.theInfoSignY:hover {
+    transform: scale(5);
+    color: #FFFFFF;
+    font-size: 4px;
 }
