@@ -1,5 +1,5 @@
 .App {
-    width: 100vw;
+    min-width: 1440px;
     height: 1024px;
     left: 0px;
     top: 104px;
@@ -12,7 +12,7 @@
 
 
     position: absolute;
-    width: 100vw;
+    width: 1440px;
     height: 104px;
     left: 0px;
     top: 0px;
@@ -89,6 +89,8 @@
     left: 0px;
     top: 104px;
 
+
+
 }
 
 .hero {
@@ -97,7 +99,10 @@
     height: 903px;
     left: 886px;
     top: 8px;
-
+    
+}
+.hero:hover{
+filter: blur(9px) !important;
 }
 
 .heroimg {
@@ -106,6 +111,53 @@
     height: 903px;
     filter: drop-shadow(5px 5px 5px #222);
 
+}
+
+.rightArrow {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 1381px;
+    top: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.rightArrowSVG {
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    filter: invert(1);
+    filter: drop-shadow(0, 0, 0, 0.25);
+
+
+
+}
+
+.leftArrow {
+
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 0px;
+    top: 430px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.leftArrowSVG {
+    z-index: 100;
+    cursor: pointer;
+    position: absolute;
+    filter: invert(1);
+    filter: drop-shadow(0, 0, 0, 0.25);
+    transform: rotate(180);
 }
 
 /* .carouselArrow1 {

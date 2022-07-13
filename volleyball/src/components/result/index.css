@@ -327,6 +327,7 @@ progress.commonStatsBar {
 }
 
 .theInfoSignChar:hover {
+    z-index: 100;
     transform: scale(5);
     color: #FFFFFF;
     font-size: 4px;
@@ -347,6 +348,7 @@ progress.commonStatsBar {
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
 .theInfoSignY:hover {
     transform: scale(5);
