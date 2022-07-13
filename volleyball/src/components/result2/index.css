@@ -1,0 +1,369 @@
+.resultBody {
+    position: absolute;
+    width: 1440px;
+    height: 920px;
+    left: 0px;
+    top: 104px;
+    display: flex;
+}
+
+.resultSection {
+
+    position: absolute;
+    width: 838px;
+    height: 683px;
+    left: 301px;
+    top: 118px;
+
+    background: rgba(255, 255, 255, 0.89);
+}
+
+.likeBox {
+    position: absolute;
+    width: 410px;
+    height: 71px;
+    left: 214px;
+    top: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #E4E3E3;
+}
+
+.likeText {
+    margin: 0;
+    position: absolute;
+    width: 228px;
+    height: 20px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 20px;
+    /* identical to box height, or 48% */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 5px rgba(0, 0, 0, 0.39);
+}
+
+.characterImg {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    left: 244px;
+    top: 145px;
+
+}
+
+.characterStats {
+    position: absolute;
+    width: 215px;
+    height: 46px;
+    left: -2px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0);
+    border: 0;
+
+}
+
+.notCommonStatsBar {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 431px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    background: #E4E3E3;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+}
+
+/* For Firefox */
+progress.yourStats::-moz-progress-bar {
+    background: #FF7A00;
+    border-radius: 0px 23px 23px 0px;
+}
+
+progress.characterStats::-moz-progress-bar {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+/* For Chrome or Safari */
+progress::-webkit-progress-value {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+progress::-webkit-progress-value {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+/* For IE10 */
+progress.commonStatsBar {
+    background: #FFD704;
+    border-radius: 0px 23px 23px 0px;
+}
+
+.yourStats {
+    position: absolute;
+    width: 215px;
+    height: 46px;
+    left: -2px;
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+
+
+}
+
+.notCommonStatsBar2 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 510px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    background: #E4E3E3;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+}
+
+.notCommonStatsBar3 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 62px;
+    top: 590px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #E4E3E3;
+}
+
+.notCommonStatsBar4 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 431px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #E4E3E3;
+}
+
+.notCommonStatsBar5 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 510px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #E4E3E3;
+}
+
+.notCommonStatsBar6 {
+    position: absolute;
+    width: 215px;
+    height: 45px;
+    left: 357px;
+    top: 590px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.25);
+    background: #E4E3E3;
+}
+
+.basicInfo {
+    position: absolute;
+    width: 195px;
+    height: 128px;
+    left: 643px;
+    top: 555px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 0;
+    background: rgba(255, 215, 4, 0.31);
+
+}
+
+.nameBox {
+    position: absolute;
+    width: 410px;
+    height: 49px;
+    left: 214px;
+    top: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.charName {
+    position: absolute;
+
+    height: 20px;
+    /* left: 289px;
+    top: 375px; */
+    margin: 0;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 20px;
+    /* identical to box height, or 48% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.infoText {
+    position: relative;
+
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 20px;
+    /* or 71% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.teeext {
+    z-index: 10;
+    position: absolute;
+    margin: 0;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height, or 71% */
+
+    display: flex;
+    align-items: center;
+
+    color: #ffffff;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.29);
+}
+
+
+.moreButton {
+    position: relative;
+
+    height: 28px;
+
+
+    background: #FF7A00;
+    border-radius: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ava {
+    height: 100%;
+}
+
+.wikiButton {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.theInfoSignChar {
+
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    left: 669px;
+    top: 444px;
+
+
+    background: #FFD704;
+    border-radius: 11px;
+    cursor: pointer;
+    text-align: center;
+    color: #FFD704;
+    font-size: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.theInfoSignChar:hover {
+    z-index: 100;
+    transform: scale(5);
+    color: #FFFFFF;
+    font-size: 4px;
+}
+
+.theInfoSignY {
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    left: 774px;
+    top: 444px;
+    background: #FF7A00;
+    border-radius: 11px;
+    cursor: pointer;
+    text-align: center;
+    color: #FF7A00;
+    font-size: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.theInfoSignY:hover {
+    transform: scale(5);
+    color: #FFFFFF;
+    font-size: 4px;
+}
+
+.yImg {
+    position: absolute;
+    width: 350px;
+    height: 197px;
+    left: 244px;
+    top: 427px;
+
+}

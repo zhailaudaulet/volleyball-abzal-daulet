@@ -5,6 +5,7 @@ import { Start } from './components/start';
 import { Main } from './components/main';
 import { Result } from './components/result';
 import { Comparation } from './components/comparation';
+import { Result2 } from './components/result2';
 import hero from './hero.png';
 import arrow from './caret-right-solid.svg'
 
@@ -24,6 +25,9 @@ function App() {
   }
   const undoBlurBackground=() =>{
     document.getElementById('myHero').style.removeProperty('filter');
+  }
+  const giveInfo = ()=>{
+    alert('Here we can help you to find who do you look like by using your photo!')
   }
   // const handleMove = e => {
   //   console.log(e.layerX,);
@@ -45,7 +49,7 @@ function App() {
         <div className='mainActivity' onClick={() => {setContent(1); blurBackground()}}>
           <div className='mainActivityTitle' >GO</div>
         </div>
-        <div className='secondaryActivity' onClick={()=>{setContent(3); blurBackground()}}>
+        <div className='secondaryActivity' onClick={()=>{setContent(3);giveInfo(); blurBackground()}}>
           <div className='mainActivityTitle'>Photo</div>
         </div>
       </div>
@@ -67,7 +71,8 @@ function App() {
       </div>
       {content === 0 ? <Start setContent={setContent} blurBackground={blurBackground}></Start>
         : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent} setDataUser={setDataUser} ></Main>
-          : content===2 ? <Result character={character} dataUser={dataUser}></Result>:<Comparation/>}
+          : content===2 ? <Result character={character} dataUser={dataUser}></Result>:
+          content==3?<Comparation setContent={setContent} />:<Result2 character={character}/>}
     </div>
   );
 
