@@ -53,12 +53,14 @@
 }
 
 .characterImg {
+    display: flex;
+    justify-content: center;
     position: absolute;
     width: 350px;
     height: 197px;
     left: 244px;
     top: 145px;
-    background-color: black;
+
 }
 
 .characterStats {
@@ -281,7 +283,7 @@ progress.commonStatsBar {
 
 .moreButton {
     position: relative;
-    width: 67px;
+
     height: 28px;
 
 
