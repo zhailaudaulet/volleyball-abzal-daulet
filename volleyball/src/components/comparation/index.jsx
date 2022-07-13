@@ -8,7 +8,7 @@ import karasuno from "../../data/karasuno.json";
 import nekoma from "../../data/nekoma.json";
 import others from "../../data/others.json";
 import shiratorizawa from "../../data/shiratorizawa.json";
-export const Comparation = ({ setContent, setCh }) => {
+export const Comparation = ({ setContent, setCh, setPh }) => {
     const dataChar = [...aobaJohsai, ...dateTech, ...fukurodani, ...inarizaki, ...karasuno, ...nekoma, ...others, ...shiratorizawa];
         
     const handleAlert = ()=>{
@@ -17,10 +17,12 @@ export const Comparation = ({ setContent, setCh }) => {
     const act = ()=>{
         let ind = Math.floor(Math.random() * (63 - 0) + 0);
         setCh({data: dataChar[ind].items});
+        setPh(document.getElementById('inp').value);
+        console.log(document.getElementById('inp').value);
     }
     return (
         <div className='centerSQR'>
-            <input type={"file"} ></input>
+            <input id='inp' type={"file"} ></input>
 
             <div className='fileButton' onClick={()=>{setContent(4); act()}}>
                 <p className='upload'>Upload</p>

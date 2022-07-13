@@ -17,6 +17,7 @@ function App() {
   const [content, setContent] = useState(0);
   const [dataUser, setDataUser] = useState([]);
   const [character, setCharacter] = useState({ data: karasuno[0].items });
+  const [ph, setPh] = useState(null);
   const handleSetCharacter = (Char) => {
     setCharacter(Char);
   }
@@ -72,7 +73,7 @@ function App() {
       {content === 0 ? <Start setContent={setContent} blurBackground={blurBackground}></Start>
         : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent} setDataUser={setDataUser} ></Main>
           : content===2 ? <Result character={character} dataUser={dataUser}></Result>:
-          content==3?<Comparation setContent={setContent} setCh={handleSetCharacter}/>:<Result2 character={character}/>}
+          content==3?<Comparation setContent={setContent} setCh={handleSetCharacter} setPh={setPh}/>:<Result2 character={character} ph={ph}/>}
     </div>
   );
 
