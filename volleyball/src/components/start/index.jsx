@@ -1,7 +1,7 @@
 import './index.css';
 import myGif from '../../original.gif'
 import ball from '../../volleyball.png'
-export const Start = ({ setContent }) => {
+export const Start = ({ setContent, blurBackground }) => {
     console.log(myGif)
     return (
         <div className="startBody">
@@ -13,7 +13,7 @@ export const Start = ({ setContent }) => {
 
                 <img src={myGif} className='theVideo'/>
             </div>
-            <div className='circle' onClick={() => { setContent(1) }}>
+            <div className='circle' onClick={() => { setContent(1); blurBackground() }}>
                 <img src={ball} className='ball' />
             </div>
 

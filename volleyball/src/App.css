@@ -65,6 +65,25 @@
     align-items: center;
 }
 
+.secondaryActivity {
+    cursor: pointer;
+    position: absolute;
+    width: 217px;
+    height: 104px;
+    left: 630px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #FFD704;
+}
+
+.secondaryActivity:hover {
+    background: #ff5100;
+    transform: scale(1.1);
+    transition: 1s;
+}
 .mainActivity:hover {
     background: #ff5100;
     transform: scale(1.1);
@@ -99,11 +118,9 @@
     height: 903px;
     left: 886px;
     top: 8px;
-    
+
 }
-.hero:hover{
-filter: blur(9px) !important;
-}
+
 
 .heroimg {
     position: absolute;
@@ -112,6 +129,7 @@ filter: blur(9px) !important;
     filter: drop-shadow(5px 5px 5px #222);
 
 }
+
 
 .rightArrow {
     position: absolute;
