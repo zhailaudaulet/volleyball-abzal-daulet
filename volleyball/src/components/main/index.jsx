@@ -132,7 +132,7 @@ export const Main = ({setCh, setContent, setDataUser}) => {
                         <option>Captain</option>
                     </select>
                 </div>
-                <div className='goButton' disabled onClick={()=>{defineChar();setContent(3)}}>
+                <div className='goButton' disabled onClick={()=>{defineChar();setContent(2)}}>
                     <p className='goText'>GO</p>
                 </div>
             </div>

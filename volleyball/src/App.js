@@ -45,7 +45,7 @@ function App() {
         <div className='mainActivity' onClick={() => {setContent(1); blurBackground()}}>
           <div className='mainActivityTitle' >GO</div>
         </div>
-        <div className='secondaryActivity'>
+        <div className='secondaryActivity' onClick={()=>{setContent(3); blurBackground()}}>
           <div className='mainActivityTitle'>Photo</div>
         </div>
       </div>

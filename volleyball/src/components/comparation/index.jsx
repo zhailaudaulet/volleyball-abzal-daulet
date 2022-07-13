@@ -2,10 +2,11 @@ import './index.css';
 export const Comparation = ({ setContent }) => {
     return (
         <div className='centerSQR'>
-            <input type={"file"} id='upload' hidden></input>
+            <input type={"file"} ></input>
 
-            <div for="upload" className='fileButton'>
-            <label for="upload">Select some files</label>
+            <div className='fileButton'>
+                <p className='upload'>Upload</p>
+
             </div>
         </div>
     );
