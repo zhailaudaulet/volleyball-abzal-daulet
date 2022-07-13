@@ -14,7 +14,7 @@ import karasuno from "./data/karasuno.json";
 
 function App() {
 
-  const [content, setContent] = useState(5);
+  const [content, setContent] = useState(0);
   const [dataUser, setDataUser] = useState([]);
   const [character, setCharacter] = useState({ data: karasuno[0].items });
   const handleSetCharacter = (Char) => {
