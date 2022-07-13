@@ -10,8 +10,10 @@ export const Start = ({ setContent, blurBackground }) => {
                 is similar to you?
             </p>
             <div className='video'>
-
-                <img src={myGif} className='theVideo'/>
+<video  width="550" height="300" controls>
+    <source src='https://r22107.kujo-jotaro.com/haikyuu/1/2.480.bc037afec5f81061.mp4?hash1=e301275e697a5af7c96bc689d3b2a329'></source>
+</video>
+                {/* <img src={myGif} className='theVideo'/> */}
             </div>
             <div className='circle' onClick={() => { setContent(1); blurBackground() }}>
                 <img src={ball} className='ball' />
