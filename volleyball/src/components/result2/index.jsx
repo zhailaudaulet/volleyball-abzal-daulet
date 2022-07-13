@@ -1,7 +1,7 @@
 import './index.css';
 export const Result2 = ({ setContent, blurBackground, character }) => {
     return (
-        <div className='resultbody'>
+        <div className='resultBody'>
             <div className="resultSection">
                 <div className='likeBox'>
                     <p className='likeText'>You are like</p>
