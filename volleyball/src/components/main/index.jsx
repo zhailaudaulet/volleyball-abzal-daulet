@@ -15,7 +15,7 @@ export const Main = ({setCh, setContent, setDataUser}) => {
         const dataUser = [];
 
         for (let index = 0; index < 6; index++) {
-            dataUser[index] = document.getElementById(`${index}`).value;
+            dataUser[index] = document.getElementById(`${index}`).value==""?0:document.getElementById(`${index}`).value;
         }
         setDataUser(dataUser);
         let priorityArr = [];
@@ -53,7 +53,7 @@ export const Main = ({setCh, setContent, setDataUser}) => {
             }
 
             const temp3 = Number(priorityArr[index].data[1].value.substring(0, 2));
-            console.log(temp3);
+
             if (temp3 <= Number(dataUser[4]) + 2 && coef1 >= Number(dataUser[4]) - 2) {
                 priorityArr[index].point++;
 
@@ -132,7 +132,7 @@ export const Main = ({setCh, setContent, setDataUser}) => {
                         <option>Captain</option>
                     </select>
                 </div>
-                <div className='goButton' onClick={()=>{defineChar();setContent(3)}}>
+                <div className='goButton' disabled onClick={()=>{defineChar();setContent(3)}}>
                     <p className='goText'>GO</p>
                 </div>
             </div>

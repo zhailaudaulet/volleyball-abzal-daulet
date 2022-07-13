@@ -4,7 +4,6 @@ export const Result = ({ character, dataUser }) => {
     const temp = Number(character.data[2].value.substring(0, 3));
     const temp2 = Number(character.data[6].value.substring(0, 3))
     const coef1 = (temp2 - temp) - ((temp / 5) * 2);
-    console.log(coef1);
     const zChanger = () => {
         if (dataUser[0] > Number(character.data[2].value.substring(0, 3))) {
             document.getElementById('heightChar').style.zIndex = 1;
@@ -21,11 +20,12 @@ export const Result = ({ character, dataUser }) => {
         if (dataUser[3] > Number(character.data[6].value.substring(0, 3))) {
             document.getElementById('spikeChar').style.zIndex = 1;
             document.getElementById('spikeY').style.zIndex = 0;
+            
         }
         if (dataUser[4] > Number(character.data[1].value.substring(0, 2))) {
             document.getElementById('ageChar').style.zIndex = 1;
             document.getElementById('ageY').style.zIndex = 0;
-            console.log('age',Number(character.data[1].value.substring(0, 2)), dataUser[4] )
+
         }
     }
     useEffect(() => { zChanger() }, [])
@@ -64,9 +64,9 @@ export const Result = ({ character, dataUser }) => {
 
                 <div className='notCommonStatsBar4'>
                     <p className='teeext'>Spike</p>
-                    <progress id='spikeChar' max={350} value={Number(character.data[6].value.substring(0, 3))} className='characterStats'>
+                    <progress id='spikeChar' max={380} value={Number(character.data[6].value.substring(0, 3))} className='characterStats'>
                     </progress>
-                    <progress id='spikeY' max={350} value={dataUser[3]} className='yourStats'></progress>
+                    <progress id='spikeY' max={380} value={dataUser[3]} className='yourStats'></progress>
                 </div>
 
                 <div className='notCommonStatsBar5'>
