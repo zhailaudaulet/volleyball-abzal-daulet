@@ -72,7 +72,7 @@ function App() {
       {content === 0 ? <Start setContent={setContent} blurBackground={blurBackground}></Start>
         : content === 1 ? <Main setCh={handleSetCharacter} setContent={setContent} setDataUser={setDataUser} ></Main>
           : content===2 ? <Result character={character} dataUser={dataUser}></Result>:
-          content==3?<Comparation setContent={setContent} />:<Result2 character={character}/>}
+          content==3?<Comparation setContent={setContent} setCh={handleSetCharacter}/>:<Result2 character={character}/>}
     </div>
   );
 
